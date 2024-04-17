@@ -1,0 +1,19 @@
+# .gitignore
+.venv/
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.swp
+*.swo
+*.swn
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+.DS_Store
+.idea/
+.vscode/
+.env
